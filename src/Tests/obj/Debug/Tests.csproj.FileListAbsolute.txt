@@ -1,0 +1,5 @@
+C:\Users\yngven\Dropbox\Projects\_GitHub\Novanet-Fagkveld-26092013\src\Tests\bin\Debug\Tests.dll
+C:\Users\yngven\Dropbox\Projects\_GitHub\Novanet-Fagkveld-26092013\src\Tests\bin\Debug\Tests.pdb
+C:\Users\yngven\Dropbox\Projects\_GitHub\Novanet-Fagkveld-26092013\src\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\yngven\Dropbox\Projects\_GitHub\Novanet-Fagkveld-26092013\src\Tests\obj\Debug\Tests.dll
+C:\Users\yngven\Dropbox\Projects\_GitHub\Novanet-Fagkveld-26092013\src\Tests\obj\Debug\Tests.pdb
